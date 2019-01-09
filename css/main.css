@@ -139,6 +139,10 @@ header {
   z-index: 2;
   width: 100%; }
 
+.img-penguine img {
+  width: 150px;
+  height: auto; }
+
 .text-secondary {
   color: #eece1a; }
 
@@ -282,6 +286,8 @@ main {
   main {
     padding: 2rem; }
   main#home h1 {
-    margin-top: 10vh; }
+    margin-top: 20vh; }
   .projects {
-    grid-template-columns: 1fr; } }
+    grid-template-columns: 1fr; }
+  .img-penguine a img {
+    margin-bottom: 20px; } }
