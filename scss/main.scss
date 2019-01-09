@@ -46,6 +46,13 @@ header {
     width: 100%
 }
 
+.img-penguine {
+    img {
+        width: 150px;
+        height: auto;
+    }
+}
+
 .text-secondary {
     color: $secondary-color;
 }
